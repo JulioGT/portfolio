@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JulioGT/portfolio/static/css/main.3b09eddd.chunk.css",
+    "main.js": "/JulioGT/portfolio/static/js/main.a99b5f37.chunk.js",
+    "main.js.map": "/JulioGT/portfolio/static/js/main.a99b5f37.chunk.js.map",
+    "runtime-main.js": "/JulioGT/portfolio/static/js/runtime-main.ec13e23b.js",
+    "runtime-main.js.map": "/JulioGT/portfolio/static/js/runtime-main.ec13e23b.js.map",
+    "static/js/2.65936342.chunk.js": "/JulioGT/portfolio/static/js/2.65936342.chunk.js",
+    "static/js/2.65936342.chunk.js.map": "/JulioGT/portfolio/static/js/2.65936342.chunk.js.map",
+    "index.html": "/JulioGT/portfolio/index.html",
+    "precache-manifest.f1bb97f150171a9ade845f579b31e932.js": "/JulioGT/portfolio/precache-manifest.f1bb97f150171a9ade845f579b31e932.js",
+    "service-worker.js": "/JulioGT/portfolio/service-worker.js",
+    "static/css/main.3b09eddd.chunk.css.map": "/JulioGT/portfolio/static/css/main.3b09eddd.chunk.css.map",
+    "static/js/2.65936342.chunk.js.LICENSE": "/JulioGT/portfolio/static/js/2.65936342.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec13e23b.js",
+    "static/js/2.65936342.chunk.js",
+    "static/css/main.3b09eddd.chunk.css",
+    "static/js/main.a99b5f37.chunk.js"
+  ]
+}
