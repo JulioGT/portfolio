@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
@@ -23,4 +23,31 @@ function App() {
   );
 }
 
+export default App;*/
+
+import React, { Component } from 'react';
+import './App.css';
+import Sidebar from './components/sidebar'
+import Introduction from './components/introduction'
+import About from './components/about'
+import Timeline from './components/timeline'
+
+class App extends Component {
+  render() {
+    return (
+      <div id="colorlib-page">
+        <div id="container-wrap">
+         	<Sidebar></Sidebar>
+				<div id="colorlib-main">
+					<Introduction></Introduction>
+					<About></About>
+					<Timeline></Timeline>
+          	</div>
+      	</div>
+      </div>
+    );
+  }
+}
+
 export default App;
+
