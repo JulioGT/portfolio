@@ -45,7 +45,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Front-End Development </h3>
-                    <p>I have experience building websites using JavaScript, React, HTML, CSS, Bootstrap. <br></br><br></br></p>
+                    <p>I have experience building websites using JavaScript, React, HTML5, CSS and Bootstrap and integrating third party APIs. <br></br><br></br></p>
                 </div>
                 </div>
             </div>
@@ -56,8 +56,8 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Back-End Development</h3>
-                    <p>When I started my professional career I have integrated several technolies like C#, ASPX, Crystal Reports, 
-                        SQL, VB6. Recently I have built some RESTful APIs using Node.js and MongoDB and PHP.
+                    <p>I started my professional career building applications in C#, ASPX, Crystal Reports, 
+                        SQL. Recently I have built RESTful APIs using Node.js and MongoDB and PHP.
                     </p>
                 </div>
                 </div>

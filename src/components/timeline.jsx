@@ -32,13 +32,13 @@ export default class Timeline extends Component {
                       </div>
                     </div>
                   </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Developer at Universidad de San Carlos de Guatemala<span>2017-2019</span></h2>
+                        <h2>Software Developer at Universidad de San Carlos de Guatemala <span>2017-2019</span></h2>
                         <p>Designed and built websites using PHP, HTML5, Bootstrap, MySQL, Javascript and Selenium.</p>
                         <p>Installed and configured web servers (Apache, Linux, SSL).</p>
                       </div>
@@ -50,7 +50,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Vertical Manager at Vantage Media<span>2012-2017</span></h2>
+                        <h2>Software Vertical Manager at Vantage Media <span>2012-2017</span></h2>
                         <p>Developed and supervised software development, system testing and validation procedures and documentation.</p>
                         <p>Led and managed software development life cycle phases with 15+ engineers distributed across 3 business units.
                         </p>
