@@ -138,8 +138,8 @@ export default class Education extends Component {
                     <div id="collapseSeven" className="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven" aria-expanded="false">
                       <div className="panel-body">
                       <ul>
-                        <li><strong>Foundations of Everyday Leadership.</strong>Certification URL: <a href="https://www.coursera.org/account/accomplishments/verify/UEQDJDEF6SBB" target="_blank">License Number: UEQDJDEF6SBB</a></li>
-                        <li><strong>Applications of Everyday Leadership.</strong>Certification URL: <a href="https://www.coursera.org/account/accomplishments/verify/BXUUDUYP66FQ" target="_blank">License Number: UEQDJDEF6SBB</a></li>
+                        <li><strong>Foundations of Everyday Leadership.</strong> Certification URL: <a href="https://www.coursera.org/account/accomplishments/verify/UEQDJDEF6SBB" target="_blank">UEQDJDEF6SBB</a></li>
+                        <li><strong>Applications of Everyday Leadership.</strong> Certification URL: <a href="https://www.coursera.org/account/accomplishments/verify/BXUUDUYP66FQ" target="_blank">BXUUDUYP66FQ</a></li>
                         <li><strong>DRUPAL.</strong> Course basic level at INTECAP.</li>
                         <li><strong>Exploring Oracle Data Base Administration (DBA).</strong> TATA Consultancy Services.</li>
                         <li><strong>Solution Architecture (SA).</strong> TATA Consultancy Services.</li>
