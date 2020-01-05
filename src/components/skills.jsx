@@ -14,8 +14,7 @@ export default class Skills extends Component {
             </div>
             <div className="row">
               <div className="col-md-12 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
-                <p>There is always something new to learn, I am constantly looking how to overcome my weaknesses 
-                  The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
+                <p>There is always something new to learn, I am constantly looking how to overcome my weaknesses and interact in a better way with my colleagues.</p>
               </div>
               <div className="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
                 <div className="progress-wrap">
@@ -77,11 +76,11 @@ export default class Skills extends Component {
                   </div>
                 </div>
               </div>
-              <div className="col-md-6 animate-box fadeInRight animated" data-animate-effect="fadeInRight">
+              <div className="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
                 <div className="progress-wrap">
                   <h3>Node.js</h3>
                   <div className="progress">
-                    <div className="progress-bar color-1" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style={{ width: '70%' }}>
+                    <div className="progress-bar color-6" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style={{ width: '70%' }}>
                       <span>70%</span>
                     </div>
                   </div>
@@ -91,8 +90,88 @@ export default class Skills extends Component {
                 <div className="progress-wrap">
                   <h3>PHP</h3>
                   <div className="progress">
+                    <div className="progress-bar color-5" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{ width: '80%' }}>
+                      <span>80%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+                <div className="progress-wrap">
+                  <h3>GIT</h3>
+                  <div className="progress">
+                    <div className="progress-bar color-4" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{ width: '80%' }}>
+                      <span>80%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-6 animate-box fadeInRight animated" data-animate-effect="fadeInRight">
+                <div className="progress-wrap">
+                  <h3>SCRUM</h3>
+                  <div className="progress">
+                    <div className="progress-bar color-3" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{ width: '80%' }}>
+                      <span>80%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+                <div className="progress-wrap">
+                  <h3>JIRA</h3>
+                  <div className="progress">
                     <div className="progress-bar color-2" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{ width: '80%' }}>
                       <span>80%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-6 animate-box fadeInRight animated" data-animate-effect="fadeInRight">
+                <div className="progress-wrap">
+                  <h3>Powershell</h3>
+                  <div className="progress">
+                    <div className="progress-bar color-1" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style={{ width: '50%' }}>
+                      <span>50%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+                <div className="progress-wrap">
+                  <h3>SQL</h3>
+                  <div className="progress">
+                    <div className="progress-bar color-1" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style={{ width: '50%' }}>
+                      <span>50%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-6 animate-box fadeInRight animated" data-animate-effect="fadeInRight">
+                <div className="progress-wrap">
+                  <h3>MySQL</h3>
+                  <div className="progress">
+                    <div className="progress-bar color-6" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style={{ width: '50%' }}>
+                      <span>50%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+                <div className="progress-wrap">
+                  <h3>MongoDB</h3>
+                  <div className="progress">
+                    <div className="progress-bar color-5" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style={{ width: '40%' }}>
+                      <span>40%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+                <div className="progress-wrap">
+                  <h3>C#</h3>
+                  <div className="progress">
+                    <div className="progress-bar color-2" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style={{ width: '30%' }}>
+                      <span>30%</span>
                     </div>
                   </div>
                 </div>
@@ -100,6 +179,7 @@ export default class Skills extends Component {
             </div>
           </div>
         </section>
+        <br></br><br></br><br></br><br></br><br></br><br></br>
       </div>
     )
   }

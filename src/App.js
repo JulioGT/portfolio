@@ -32,6 +32,7 @@ import Introduction from './components/introduction'
 import About from './components/about'
 import Timeline from './components/timeline'
 import Skills from './components/skills'
+import Education from './components/education'
 
 class App extends Component {
   render() {
@@ -43,7 +44,8 @@ class App extends Component {
             <Introduction></Introduction>
             <About></About>
             <Timeline></Timeline>
-            
+            <Education></Education>
+            <Skills></Skills>
           </div>
       	</div>
       </div>
