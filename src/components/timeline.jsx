@@ -23,6 +23,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Lead Developer at Zac3Media <span>2017-present</span></h2>
                         <ul>
+                          <li>Design, develop and mantain software systems in Node.js, Express, Mocha and MongoDB</li>
                           <li>Implement third party APIs in our web sites to generate high quality leads using PHP, HTML5, Bootstrap, Javascript and AWS</li>
                           <li>Lead the development team located in Israel using Laravel or DWOO as template management. </li>
                           <li>Define strategic operations and general management such as Incident and Problem Management with the support team located in Spain and Netherlands.</li>
