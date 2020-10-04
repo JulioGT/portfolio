@@ -165,7 +165,7 @@ export default class Education extends Component {
                       aria-expanded="false"
                     >
                       <div className="panel-body">
-                        <a href="">Edureka</a>
+                        <strong style={{ color: "#2c98f0" }}>Edureka</strong>
                         <p>
                           DevOps course will provide you the in-depth knowledge
                           of various DevOps tools including Git, Jenkins,
@@ -206,7 +206,9 @@ export default class Education extends Component {
                       aria-expanded="false"
                     >
                       <div className="panel-body">
-                        <a href="">trambo.cloud</a>
+                        <strong style={{ color: "#2c98f0" }}>
+                          trambo.cloud
+                        </strong>
                         <ul>
                           <li>Cloud formation</li>
                           <li>VPC</li>
@@ -247,13 +249,17 @@ export default class Education extends Component {
                       <div className="panel-body">
                         <ul>
                           <li>
-                            <strong>Code Challenge Certificate.</strong>{" "}
+                            <strong>
+                              Code Challenge Certificate. Codility Silver Award
+                              (Palladium 2020)
+                            </strong>{" "}
                             Certification URL:{" "}
                             <a
                               href="https://app.codility.com/cert/view/certHDJ865-2RVJ8GQB9K5GKSN2/"
                               target="_blank"
+                              rel="noopener noreferrer"
                             >
-                              H2GKM8T6VVRG
+                              certHDJ865-2RVJ8GQB9K5GKSN2
                             </a>
                           </li>
                         </ul>
@@ -295,6 +301,7 @@ export default class Education extends Component {
                             <a
                               href="https://app.codility.com/cert/view/certHDJ865-2RVJ8GQB9K5GKSN2/"
                               target="_blank"
+                              rel="noopener noreferrer"
                             >
                               UEQDJDEF6SBB
                             </a>
@@ -307,6 +314,7 @@ export default class Education extends Component {
                             <a
                               href="https://www.coursera.org/account/accomplishments/certificate/BXUUDUYP66FQ"
                               target="_blank"
+                              rel="noopener noreferrer"
                             >
                               BXUUDUYP66FQ
                             </a>
@@ -423,6 +431,7 @@ export default class Education extends Component {
                             <a
                               href="https://www.coursera.org/account/accomplishments/certificate/H2GKM8T6VVRG"
                               target="_blank"
+                              rel="noopener noreferrer"
                             >
                               H2GKM8T6VVRG
                             </a>
