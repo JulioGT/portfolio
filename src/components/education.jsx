@@ -221,6 +221,101 @@ export default class Education extends Component {
                       </div>
                     </div>
                   </div>
+
+                  <div className="panel panel-default">
+                    <div className="panel-heading" role="tab" id="headingCode">
+                      <h4 className="panel-title">
+                        <a
+                          className="collapsed"
+                          data-toggle="collapse"
+                          data-parent="#accordion"
+                          href="#collapseCode"
+                          aria-expanded="false"
+                          aria-controls="collapseCode"
+                        >
+                          CODE CHALLENGE CERTIFICATE
+                        </a>
+                      </h4>
+                    </div>
+                    <div
+                      id="collapseCode"
+                      className="panel-collapse collapse"
+                      role="tabpanel"
+                      aria-labelledby="headingCode"
+                      aria-expanded="false"
+                    >
+                      <div className="panel-body">
+                        <ul>
+                          <li>
+                            <strong>Code Challenge Certificate.</strong>{" "}
+                            Certification URL:{" "}
+                            <a
+                              href="https://app.codility.com/cert/view/certHDJ865-2RVJ8GQB9K5GKSN2/"
+                              target="_blank"
+                            >
+                              H2GKM8T6VVRG
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="panel panel-default">
+                    <div
+                      className="panel-heading"
+                      role="tab"
+                      id="headingLeadership"
+                    >
+                      <h4 className="panel-title">
+                        <a
+                          className="collapsed"
+                          data-toggle="collapse"
+                          data-parent="#accordion"
+                          href="#collapseLeadership"
+                          aria-expanded="false"
+                          aria-controls="collapseLeadership"
+                        >
+                          LEADERSHIP COURSES
+                        </a>
+                      </h4>
+                    </div>
+                    <div
+                      id="collapseLeadership"
+                      className="panel-collapse collapse"
+                      role="tabpanel"
+                      aria-labelledby="headingLeadership"
+                      aria-expanded="false"
+                    >
+                      <div className="panel-body">
+                        <ul>
+                          <li>
+                            <strong>Foundations of Everyday Leadership.</strong>{" "}
+                            Certification URL:{" "}
+                            <a
+                              href="https://app.codility.com/cert/view/certHDJ865-2RVJ8GQB9K5GKSN2/"
+                              target="_blank"
+                            >
+                              UEQDJDEF6SBB
+                            </a>
+                          </li>
+                          <li>
+                            <strong>
+                              Applications of Everyday Leadership.
+                            </strong>{" "}
+                            Certification URL:{" "}
+                            <a
+                              href="https://www.coursera.org/account/accomplishments/certificate/BXUUDUYP66FQ"
+                              target="_blank"
+                            >
+                              BXUUDUYP66FQ
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
                   <div className="panel panel-default">
                     <div className="panel-heading" role="tab" id="headingFive">
                       <h4 className="panel-title">
@@ -289,57 +384,132 @@ export default class Education extends Component {
                             proficiency.
                           </li>
                           <li>
-                            <strong>Deutsch:</strong> A1.1.
+                            <strong>Deutsch:</strong> B2.
                           </li>
                         </ul>
                       </div>
                     </div>
                   </div>
                   <div className="panel panel-default">
-                    <div className="panel-heading" role="tab" id="headingSeven">
+                    <div className="panel-heading" role="tab" id="headingOther">
                       <h4 className="panel-title">
                         <a
                           className="collapsed"
                           data-toggle="collapse"
                           data-parent="#accordion"
-                          href="#collapseSeven"
+                          href="#collapseOther"
                           aria-expanded="false"
-                          aria-controls="collapseSeven"
+                          aria-controls="collapseOther"
                         >
                           Other
                         </a>
                       </h4>
                     </div>
                     <div
-                      id="collapseSeven"
+                      id="collapseOther"
                       className="panel-collapse collapse"
                       role="tabpanel"
-                      aria-labelledby="headingSeven"
+                      aria-labelledby="headingOther"
                       aria-expanded="false"
                     >
                       <div className="panel-body">
                         <ul>
                           <li>
-                            <strong>Foundations of Everyday Leadership.</strong>{" "}
+                            <strong>
+                              Introduction to Unit Testing in Jest - The
+                              Fundamentals.
+                            </strong>{" "}
                             Certification URL:{" "}
                             <a
-                              href="https://www.coursera.org/account/accomplishments/verify/UEQDJDEF6SBB"
+                              href="https://www.coursera.org/account/accomplishments/certificate/H2GKM8T6VVRG"
                               target="_blank"
                             >
-                              UEQDJDEF6SBB
+                              H2GKM8T6VVRG
                             </a>
                           </li>
                           <li>
                             <strong>
-                              Applications of Everyday Leadership.
-                            </strong>{" "}
-                            Certification URL:{" "}
-                            <a
-                              href="https://www.coursera.org/account/accomplishments/verify/BXUUDUYP66FQ"
-                              target="_blank"
-                            >
-                              BXUUDUYP66FQ
-                            </a>
+                              AWS Certified DevOps Engineer: Continuous Delivery
+                              and Automation.
+                            </strong>
+                            Pluralsight.
+                          </li>
+                          <li>
+                            <strong>AWS Developer: The Big Picture.</strong>
+                            Pluralsight.
+                          </li>
+                          <li>
+                            <strong>
+                              Responsive Websites with Bootstrap 3.
+                            </strong>
+                            Pluralsight.
+                          </li>
+                          <li>
+                            <strong>
+                              Cisco CCNA: Introduction to Networking.
+                            </strong>
+                            Pluralsight.
+                          </li>
+                          <li>
+                            <strong>Risk Management.</strong>
+                            Pluralsight.
+                          </li>
+                          <li>
+                            <strong>High Performance PHP.</strong>
+                            Pluralsight.
+                          </li>
+                          <li>
+                            <strong>Java Certificate.</strong>
+                            Pluralsight.
+                          </li>
+                          <li>
+                            <strong>
+                              Getting Started with Laravel (PHP Framework) - The
+                              Basics.
+                            </strong>
+                            Pluralsight.
+                          </li>
+                          <li>
+                            <strong>
+                              Getting Started with Laravel (PHP Framework) -
+                              Models and Data
+                            </strong>
+                            Pluralsight.
+                          </li>
+                          <li>
+                            <strong>A Better CSS: LESS and SASS.</strong>
+                            Pluralsight.
+                          </li>
+                          <li>
+                            <strong>LPI: Linux Essentials (010-150).</strong>
+                            Pluralsight.
+                          </li>
+                          <li>
+                            <strong>PHP: Get Started.</strong>
+                            Pluralsight.
+                          </li>
+                          <li>
+                            <strong>Automated Tests with PHPUnit.</strong>
+                            Pluralsight.
+                          </li>
+                          <li>
+                            <strong>
+                              PMP - Introduction to Project Management & the PHP
+                              Exam.
+                            </strong>
+                            Pluralsight.
+                          </li>
+                          <li>
+                            <strong>React Fundamentals.</strong>
+                            Pluralsight.
+                          </li>
+                          <li>
+                            <strong>Scrum Master Skills.</strong>
+                            Pluralsight.
+                          </li>
+                          <li>
+                            <strong>Website Performance.</strong>
+                            Pluralsight.
                           </li>
                           <li>
                             <strong>DRUPAL.</strong> Course basic level at
@@ -361,10 +531,6 @@ export default class Education extends Component {
                           </li>
                           <li>
                             <strong>Scrum Master.</strong> Pluralsight.
-                          </li>
-                          <li>
-                            <strong>LPI: Linux Essentials.</strong> TATA
-                            Consultancy Services.
                           </li>
                         </ul>
                       </div>
