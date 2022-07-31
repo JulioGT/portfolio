@@ -185,11 +185,11 @@ export default class Timeline extends Component {
                     </div>
                   </article>
                   <article
-                    class="timeline-entry begin animate-box fadeInUp animated"
+                    className="timeline-entry begin animate-box fadeInUp animated"
                     data-animate-effect="fadeInBottom"
                   >
-                    <div class="timeline-entry-inner">
-                      <div class="timeline-icon color-none"></div>
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-none"></div>
                     </div>
                   </article>
                 </div>

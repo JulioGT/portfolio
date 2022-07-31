@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import blog from "../images/img_bg_1.jpg";
 
 export default class Introduction extends Component {
   render() {
@@ -11,7 +12,7 @@ export default class Introduction extends Component {
         >
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{ backgroundImage: "url(images/img_bg_1.jpg)" }}>
+              <li style={{ backgroundImage: `url(${blog})` }}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -39,7 +40,7 @@ export default class Introduction extends Component {
                   </div>
                 </div>
               </li>
-              <li style={{ backgroundImage: "url(images/img_bg_1.jpg)" }}>
+              <li style={{ backgroundImage: `url(${blog})` }}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">

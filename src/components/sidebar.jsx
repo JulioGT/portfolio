@@ -1,4 +1,5 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+import about from "../images/about.png"
 
 export default class Sidebar extends Component {
   render() {
@@ -8,7 +9,7 @@ export default class Sidebar extends Component {
           <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
-              <div className="author-img" style={{backgroundImage: 'url(images/about.png)'}} />
+              <div className="author-img" style={{backgroundImage: `url(${about}`}} />
               <h1 id="colorlib-logo"><a href="index.html">Julio González</a></h1>
               <span className="email"><i className="icon-mail"></i> juliojose.gonzalez@gmail.com</span>
             </div>
