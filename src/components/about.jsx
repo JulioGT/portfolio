@@ -30,7 +30,7 @@ export default class About extends Component {
                         coworkers around the world like Spain, Netherlands,
                         Israel, India and United States mainly. My professional
                         experience is in Software development, currently I am
-                        working from Guatemala in a 100% remote position. I am
+                        working from Spain in a 100% remote position. I am
                         open-minded, language-agnostic and focused on new
                         developments in my field. I have proven to be effective
                         and motivational, with proficiency in collaboration and

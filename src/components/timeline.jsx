@@ -18,6 +18,41 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-1">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          Lead Developer at AgileEngine <span>2020-2022</span>
+                        </h2>
+                        <ul>
+                          <li>
+                            Fixed bugs and gave support on accessibility matters. 
+                          </li>
+                          <li>
+                            Led and supervised teamwork with 8 engineers distributed in Argentina, Ukraine, Mexico, and Guatemala;
+                          </li>
+                          <li>
+                            Conducted daily and retrospective meetings according to the Kanban methodology;
+                          </li>
+                          <li>
+                            Set up 1:1 meetings regularly with colleagues and provided feedback;
+                          </li>
+                          <li>
+                            Increased coverage test implementing Jest, RTL, Storybook, and Cypress;
+                          </li>
+                          <li>
+                            Got promoted due to team expansion and performance.
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </article>
                   <article
                     className="timeline-entry animate-box"
                     data-animate-effect="fadeInLeft"
@@ -148,7 +183,7 @@ export default class Timeline extends Component {
                     data-animate-effect="fadeInLeft"
                   >
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-1">
+                      <div className="timeline-icon color-2">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">

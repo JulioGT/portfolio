@@ -353,7 +353,27 @@ export default class Skills extends Component {
                 data-animate-effect="fadeInLeft"
               >
                 <div className="progress-wrap">
-                  <h3>Jest</h3>
+                  <h3>Storybook</h3>
+                  <div className="progress">
+                    <div
+                      className="progress-bar color-4"
+                      role="progressbar"
+                      aria-valuenow="45"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "45%" }}
+                    >
+                      <span>40%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-6 animate-box fadeInLeft animated"
+                data-animate-effect="fadeInLeft"
+              >
+                <div className="progress-wrap">
+                  <h3>RTL</h3>
                   <div className="progress">
                     <div
                       className="progress-bar color-3"
