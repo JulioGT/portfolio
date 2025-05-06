@@ -64,9 +64,9 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Front-End Development </h3>
                     <p>
-                      I have experience building websites using JavaScript,
-                      React, HTML5, CSS and Bootstrap and integrating third
-                      party APIs. <br></br>
+                      I have experience building websites using React,
+                      Typescript, Tailwind and integrating third party APIs.{" "}
+                      <br></br>
                       <br></br>
                     </p>
                   </div>

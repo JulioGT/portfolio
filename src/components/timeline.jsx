@@ -18,7 +18,52 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                <article
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          Senior React Developer at TeachStone{" "}
+                          <span>2022-present</span>
+                        </h2>
+                        <ul>
+                          <li>
+                            Develop features for Teachstone’s certification
+                            system using React, TypeScript, Storybook, and RTL.
+                          </li>
+                          <li>
+                            Build UI components directly from Figma designs
+                            using Tailwind CSS, ensuring accessibility and
+                            responsiveness.
+                          </li>
+                          <li>
+                            Create and managed Jira tickets based on Figma
+                            designs, contributing to well-defined sprint scopes.
+                          </li>
+                          <li>
+                            Integrate RESTful APIs from a Ruby on Rails backend
+                            to support scalable front-end features.
+                          </li>
+                          <li>
+                            Collaborate with team members across Brazil,
+                            Argentina, the U.S., and India, working effectively
+                            in a distributed, multicultural team.
+                          </li>
+                          <li>
+                            Act as sprint support engineer, resolving production
+                            bugs and helping unblock teammates during critical
+                            phases of development.
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </article>
+                  <article
                     className="timeline-entry animate-box"
                     data-animate-effect="fadeInLeft"
                   >
@@ -32,19 +77,25 @@ export default class Timeline extends Component {
                         </h2>
                         <ul>
                           <li>
-                            Fixed bugs and gave support on accessibility matters. 
+                            Fixed bugs and gave support on accessibility
+                            matters.
                           </li>
                           <li>
-                            Led and supervised teamwork with 8 engineers distributed in Argentina, Ukraine, Mexico, and Guatemala;
+                            Led and supervised teamwork with 8 engineers
+                            distributed in Argentina, Ukraine, Mexico, and
+                            Guatemala.
                           </li>
                           <li>
-                            Conducted daily and retrospective meetings according to the Kanban methodology;
+                            Conducted daily and retrospective meetings according
+                            to the Kanban methodology.
                           </li>
                           <li>
-                            Set up 1:1 meetings regularly with colleagues and provided feedback;
+                            Set up 1:1 meetings regularly with colleagues and
+                            provided feedback.
                           </li>
                           <li>
-                            Increased coverage test implementing Jest, RTL, Storybook, and Cypress;
+                            Increased coverage test implementing Jest, RTL,
+                            Storybook, and Cypress.
                           </li>
                           <li>
                             Got promoted due to team expansion and performance.
